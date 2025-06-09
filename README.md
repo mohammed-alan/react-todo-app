@@ -53,3 +53,6 @@ A simple, modern To-Do List application built with **React**. This project demon
     npm start
 
 5. Open your browser and visit localhost link provided to use the app.
+
+
+![image](https://github.com/user-attachments/assets/879d0ef4-7d2f-45f2-be64-6921b2943ece)
